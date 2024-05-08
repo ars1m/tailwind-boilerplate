@@ -3,3 +3,6 @@ build/
 dist/
 coverage/
 assets/
+# dotenv environment variables file
+.env
+.env.test
